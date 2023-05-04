@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/banner2.jpg") top right no-repeat;
+  background: #040404 url("../img/banner3.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -803,6 +803,7 @@ section .container {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  height: 30vh;
 }
 
 .portfolio .portfolio-wrap::before {
